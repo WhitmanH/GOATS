@@ -1,4 +1,4 @@
 <p align="center">
-    <img src="https://github.com/unoCamel/GOATS/blob/master/resources/logoGoats.svg?raw=true"/>
+    <img src="https://github.com/unoCamel/GOATS/blob/master/resources/logoGoats.png?raw=true"/>
 </p>
 
